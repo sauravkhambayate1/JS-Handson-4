@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+   color: brown;
+  
+  }
+  
+  p {
+    font-size: 24px;
+  }
+  
+  .code-snp {
+    padding: 16px 32px;
+    background-color: #010101;
+    border-radius: 32px;
+    color: #2ae145;
+    font-size: 20px;
+  }
+  
+  .code-snp1 {
+    padding: 16px 32px;
+    background-color: #010101;
+    border-radius: 32px;
+    color: #2ae145;
+    font-size: 20px;
+  }
